@@ -1,7 +1,9 @@
-## Hello
+## Hello!
 
-I have made games they are on [itch.io](https://shadow00dev.itch.io/)
+I make games, and you can find them on [itch.io](https://shadow00dev.itch.io/).
 
-My main project is currently something called [shadows heropack](https://www.curseforge.com/minecraft/customization/shadows-heropack) which is a heropack for [Fisk's Superheroes](https://www.curseforge.com/minecraft/mc-mods/fiskheroes) which is a 1.7.10 Minecraft mod
+My main project right now is **Shadows Heropack**, a custom heropack for the Minecraft mod **Fisk's Superheroes** (version 1.7.10).  
+Check it out here: [Shadows Heropack](https://www.curseforge.com/minecraft/customization/shadows-heropack)
 
-I have a website which is: [shadow00dev.online](https://shadow00dev.online/)
+I also have a simple website:  
+🌐 **[shadow00dev.online](https://shadow00dev.online/)**
